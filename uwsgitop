@@ -13,6 +13,7 @@ import traceback
 import json
 from collections import defaultdict
 import errno
+import requests
 
 need_reset = True
 screen = None
